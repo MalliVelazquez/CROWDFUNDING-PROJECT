@@ -1,8 +1,10 @@
 # Kickstarting with Excel
 
 ## Overview of Project
+Analyze the different projects and their acceptance by the public in order to make decisions and evaluating the project in general.
 
 ### Purpose
+Evaluate how different campaigns fared in relation to their launch dates and their funding goals so founders can creat more efficient strategies in marketing, publicity and more succesfull campaings that achieve more money and interest by public.
 
 ## Analysis and Challenges
 
