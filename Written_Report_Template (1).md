@@ -29,8 +29,8 @@ We must analyze in detail the campaigns and the countries in which these campaig
 - Each contry reacts different to activities so campaings can be fixed or eliminated from those countries in wich some activities were not so attractive.
 
 - What can you conclude about the Outcomes based on Goals?
-  -We need to analyse the puchasing power in each contry in order to decide the goal amount vs the region.
-  -It's important to also analyse wich region react better for each campaing so strategies can be fixed and goal amount would be more achievable. 
+    -We need to analyse the puchasing power in each contry in order to decide the goal amount vs the region.
+    -It's important to also analyse wich region react better for each campaing so strategies can be fixed and goal amount would be more achievable. 
 
 - What are some limitations of this dataset?
   - Campaings were not delivered at same time in public so it could change the results. 
