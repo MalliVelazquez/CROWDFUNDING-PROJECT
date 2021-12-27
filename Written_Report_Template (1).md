@@ -29,7 +29,7 @@ We must analyze in detail the campaigns and the countries in which these campaig
     - The must successful campaings were delivered on vacations season so campaings must be releated to public free time.
     - Different ages of people attend this campaing so we must analyse ages range so campaing can be delivered in free time season.
 
-- Outcomes based on Goals?
+- Outcomes based on Goals
 
     -We need to analyse the puchasing power in each contry in order to decide the goal amount vs the region.
     -It's important to also analyse wich region react better for each campaing so strategies can be fixed and goal amount would be more achievable. 
