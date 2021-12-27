@@ -19,7 +19,7 @@ music campaigns had less failure than publishing campaigns.
 The cancellation rate began to rise considerably from the goals of 25,000 USD, which can tell us about the need to extend the time of the campaign or the change in the established goals if the same advertising strategy or deadline continue.
 
 ### Challenges and Difficulties Encountered
-Most people work a full time so it is difficult to find a space of time to attend activities that take up a part of their day. In each country, of course the workforce has different economic possibilities that lead a campaign to be more or less successful depending on the region in which it has been delivered.
+Most people work a full time so it is difficult to find a space of time to attend activities that take up a part of their day. In each country, of course, the workforce has different economic possibilities that lead a campaign to be more or less successful depending on the region in which it has been delivered.
 We must analyze in detail the campaigns and the countries in which these campaigns are presented and the established goals, since these goals must be related to the purchasing power of each region.
 
 ## Results
