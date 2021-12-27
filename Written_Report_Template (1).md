@@ -32,6 +32,7 @@ We must analyze in detail the campaigns and the countries in which these campaig
 - Outcomes based on Goals
 
     -We need to analyse the puchasing power in each contry in order to decide the goal amount vs the region.
+    
     -It's important to also analyse wich region react better for each campaing so strategies can be fixed and goal amount would be more achievable. 
 
 - What are some limitations of this dataset?
