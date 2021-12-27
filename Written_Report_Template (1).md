@@ -37,5 +37,6 @@ We must analyze in detail the campaigns and the countries in which these campaig
   - Campaigns can be more accessible to a certain stratum of people by region, so the data is not globalized.
 
 - What are some other possible tables and/or graphs that we could create?
- - Outcomes based on regions.
- - Outcomes based on category.
+  - Outcomes based on regions.
+  - Outcomes based on category.
+ 
