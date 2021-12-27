@@ -24,19 +24,24 @@ We must analyze in detail the campaigns and the countries in which these campaig
 
 ## Results
 
-- The must successful campaings were delivered on vacations season so campaings must be releated to public free time
-- People are more attracted to campaings that involved arts and new contain so campaings need to be more catchie. 
-- Each contry reacts different to activities so campaings can be fixed or eliminated from those countries in wich some activities were not so attractive.
+- Theater Outcomes by Launch Date
 
-- What can you conclude about the Outcomes based on Goals?
+    - The must successful campaings were delivered on vacations season so campaings must be releated to public free time.
+    - Different ages of people attend this campaing so we must analyse ages range so campaing can be delivered in free time season.
+
+- Outcomes based on Goals?
+
     -We need to analyse the puchasing power in each contry in order to decide the goal amount vs the region.
     -It's important to also analyse wich region react better for each campaing so strategies can be fixed and goal amount would be more achievable. 
 
 - What are some limitations of this dataset?
+
   - Campaings were not delivered at same time in public so it could change the results. 
   - Campaigns can be more accessible to a certain stratum of people by region, so the data is not globalized.
+  - Ages in each campaing are not delimited so results can vary in each cathegory. 
 
 - What are some other possible tables and/or graphs that we could create?
+
   - Outcomes based on regions.
   - Outcomes based on category.
  
