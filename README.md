@@ -18,6 +18,9 @@ Of course we have to take into account that the campaigns with the lowest cancel
 music campaigns had less failure than publishing campaigns.
 The cancellation rate began to rise considerably from the goals of 25,000 USD, which can tell us about the need to extend the time of the campaign or the change in the established goals if the same advertising strategy or deadline continue.
 
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/96633294/154385957-d0b22ff7-5ee5-4b73-8aac-35036bc7e0a4.png)
+
+
 ### Challenges and Difficulties Encountered
 Most people work a full time so it is difficult to find a space of time to attend activities that take up a part of their day. In each country, of course, the workforce has different economic possibilities that lead a campaign to be more or less successful depending on the region in which it has been delivered.
 We must analyze in detail the campaigns and the countries in which these campaigns are presented and the established goals, since these goals must be related to the purchasing power of each region.
@@ -28,6 +31,9 @@ We must analyze in detail the campaigns and the countries in which these campaig
 
     - The must successful campaings were delivered on vacations season so campaings must be releated to public free time.
     - Different ages of people attend this campaing so we must analyse ages range so campaing can be delivered in free time season.
+
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/96633294/154385992-0e40680f-d428-4fab-8f75-31b24fd7fee5.png)
+
 
 - Outcomes based on Goals
 
