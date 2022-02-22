@@ -14,7 +14,7 @@ We can say people react better to activities where they get involved as music, t
 
 
 ### Analysis of Outcomes Based on Goals
-Of course we have to take into account that the campaigns with the lowest cancellation or failure percentage were those that had less ambitious goals, but we must also take into account that many of the campaigns that were a failure were activities that did not involve the public as much like others. We can give an example:
+Of course we have to take into account that the campaigns with the lowest cancellation or failure percentage were those that had less ambitious goals, but, we must also take into account that many of the campaigns that were a failure were activities that did not involve the public as much like others. We can give an example:
 music campaigns had less failure than publishing campaigns.
 The cancellation rate began to rise considerably from the goals of 25,000 USD, which can tell us about the need to extend the time of the campaign or the change in the established goals if the same advertising strategy or deadline continue.
 
